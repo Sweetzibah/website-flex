@@ -1,0 +1,47 @@
+.body {
+  background-color: rgb(98, 125, 141);
+}
+
+.entire {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.mine {
+  width: 500px;
+  margin: 30px;
+}
+
+.text {
+  width: 35%;
+  margin-left: 50px;
+}
+
+.h1 {
+  padding-top: 20px;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+}
+
+#name {
+  color: rgb(16, 16, 46);
+}
+
+.p {
+  font-weight: bold;
+  font-size: larger;
+  color: rgb(255, 255, 255);
+  width: 400px;
+  margin-bottom: 30px;
+}
+
+.button {
+  padding: 15px 25px;
+  background-color: rgb(98, 125, 141);
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-size: larger;
+  border: 2px solid rgb(16, 16, 46);
+  border-radius: 30px;
+}
